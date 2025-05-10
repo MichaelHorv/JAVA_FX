@@ -107,6 +107,7 @@ public class T3FX_LT3 extends Application {
         grid.add(lb02, 1, 0);
         grid.add(lb03, 2, 0);
 
+
         grid.add(tf1, 0, 1);
         grid.add(tf2, 0, 2);
         grid.add(tf3, 0, 3);
